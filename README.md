@@ -12,3 +12,10 @@ Running instructions:
 2. Using 'Ollama pull' download your preferred LLM
 3. Get the API key by signing up on brightdata (for a virtual scraping browser), this is enable us to navigate around captcha and proxy blocking
 4. Run the app using 'streamlit run main.py'
+
+
+UI interface and running example to the get the data about properties and their rent, scraped from a property listing website:-
+
+![Query space](<images/Screenshot from 2024-11-24 19-20-34.png>)
+
+![Answer space](<images/Screenshot from 2024-11-24 19-21-12.png>)
