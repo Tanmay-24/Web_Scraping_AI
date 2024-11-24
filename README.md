@@ -1,6 +1,10 @@
 ## Scrape the Web using LLMs.....
 
-This is an AI web scraper using ollama, brightdata, selenium and other libraries.
+This is an AI web scraper that uses LLM to scrape the desired data given the instructions of the user in the prompt as well as the url of the website to be scraped
+
+Tech stack-
+Using ollama, brightdata ( virtual  browser to bypass captchas, proxy blocking etc etc...), selenium and other libraries.
+
 
 Running instructions:
 
